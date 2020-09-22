@@ -1,0 +1,107 @@
+What a sudden and sad tragedy!  Why was this poor consultant murdered, maybe there is something more sinister here then just a simple data breach?
+
+The only clue we have to go on is this print out we found on his person at the time of death.
+
+I can't make heads or tails of it, maybe you can.
+
+Scream 4
+19-3-18-5-1-13
+13-3-12-5-1-D
+S
+
+ALIEN 4
+1-12-9-5-14
+1-C-9-5-E
+E
+
+Dawn of the Dead
+4-1-23-14 15-6 20-8-5 4-5-1-4
+4-1-17-E F-6 14-8-5 4-5-1-4
+N
+
+It Follows
+9-20 6-15-12-12-15-23-19
+9-14 6-F-C-C-F-17-13
+I
+
+One Missed Call
+15-14-5 13-9-19-19-5-4 3-1-12-12
+F-E-5 D-9-13-13-5-4 3-1-C-C
+O
+
+Ringu
+18-9-14-7-21
+12-9-E-7-15
+R
+
+Duel
+4-21-5-12
+4-15-5-C
+D
+
+Exorcist
+5-24-15-18-3-9-19-20
+5-18-F-12-3-9-13-14
+E
+
+VVitch
+22-22-9-20-3-8
+16-16-9-14-3-8
+V
+
+
+$ git log
+commit 13-3-12-5-1-D
+Author: August Longbottom
+Date: 2019-10-26 00:16:00
+
+    Bedazzling
+
+commit 1-C-9-5-E
+Author: Hepzibah Smith
+Date: 2019-10-26 01:19:00
+
+    Pus-Squirting
+
+commit 4-1-17-E F-6 14-8-5 4-5-1-4
+Author: Oliver Wood
+Date: 2019-10-26 02:03:00
+
+    Knee-Reversal
+
+commit 9-14 6-F-C-C-F-17-13
+Author: Frank Bryce
+Date: 2019-10-26 03:12:00
+
+    Pepper breath
+
+commit F-E-5 D-9-13-13-5-4 3-1-C-C
+Author: Bathilda Bagshot
+Date: 2019-10-26 04:39:00
+
+    Sardine
+
+commit 12-9-E-7-15
+Author: Gabrielle Delacour
+Date: 2019-10-26 05:47:00
+
+    Bat-Bogey
+
+commit 4-15-5-C
+Author: Olympe Maxime
+Date: 2019-10-26 06:41:00
+
+    Instant Scalping
+
+commit 5-18-F-12-3-9-13-14
+Author: Garrick Ollivander
+Date: 2019-10-26 07:27:00
+
+    Tail-growing
+
+commit 16-16-9-14-3-8
+Author: Madam Rosmerta
+Date: 2019-10-26 08:07:00
+
+    Horn growing
+     

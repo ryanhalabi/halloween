@@ -1,0 +1,76 @@
+INTRO:
+
+I greet everyone, congratulate them on there new position at PriorMalady.  
+
+We're doing great work here, providing analysis on cadavers that gives their loved ones the information they need for closure.
+
+Sorry you had to pitch in on the snacks, the good news is that the VP of Product has built an on site Mango Warehouse,
+so we have plenty of fruit on site.  He should be here with it soon. 
+
+Regrettably due to budget cuts individual titles will change, everyone gets new title.
+
+We'll still expect you to deliver your best tho.  I still retain my title as CEO so at least there is some good news right?
+
+
+These title changes are due to some instabilities we're seeing in the platform.
+We currently have a Security Consultant on site, hopefully once this mess gets cleaned up
+we can shift you back to your original title.
+
+Anyways hope you have a good time!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SEGWAY:
+Oh no team, I have some terrible news.  We just ran out of money to fund the security consultants contract and 
+he's gone without finishing his work!  Now we're getting reports from several of our branches that our system 
+instabilities are becoming worse!!!
+
+Even worse, the media is sniffing around and making absurd claims that the dead are reanimating and walking
+the streets nearby sevearl of our locations.  Clearly this is all just an attempt to justify a media
+witch hunt against me.
+
+Thank god we have you guys here to continue his work.  I have no doubt that you'll be able to pick up 
+where he left off.
+
+
+COMMITED PUZZLE
+Answer: SENIORDEV
+
+SENIOR DEV PUZZLE
+ANSWER: ANALYTICS
+
+ANALYTICS PUZZLE
+ANSWER: YESMAN
+
+PRODUCT PUZZLE
+ANSWER: MANGO
+
+The CEO mentioned a Mango Warehouse?  Maybe he meant a Data Warehouse?
+
+You discover the Mango Data Warehouse was the cause of the instability.
+In his shame the Product VP left without a word.  After turning it off all systems have
+returned to normal and the dead have returned to their slumber.  Congratulations!
+
+
+
+
+
+storyline, system is unstable because of mongo fucking things up.
+
+in an effort to keep this under wraps, the VP of product created a ticket
+to get people to fix it.
+
+Unfortunately this fix broke the system and caused the dead to start coming to life.
+After seeing this the VP took his own life, leaving a message in his office about mongo
